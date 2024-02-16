@@ -3,3 +3,7 @@
 [user]
 	name = Keming He
 	email = keminghe.career@gmail.com
+[core]
+	editor = vim
+[commit]
+	template = /home/keminghe/.git_commit_tmp.txt
