@@ -4,7 +4,3 @@ Add multi-line, detailed description
 of commit here if needed.
 
 [Issue: number]
-# Template for commit messages.
-# Lines starting with '#' with be ignored.
-# Empty message will abort the commit.
-#
